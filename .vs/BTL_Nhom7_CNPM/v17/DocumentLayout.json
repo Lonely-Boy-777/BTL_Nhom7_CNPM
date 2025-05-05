@@ -1,0 +1,183 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\code\\BTL_Nhom7_CNPM\\BTL_Nhom7_CNPM\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{070BBDC1-B70D-4CDC-B87B-96EADB9C8EAE}|BTL_Nhom7_CNPM.csproj|d:\\code\\btl_nhom7_cnpm\\btl_nhom7_cnpm\\ui\\form_baocaohethang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{070BBDC1-B70D-4CDC-B87B-96EADB9C8EAE}|BTL_Nhom7_CNPM.csproj|solutionrelative:ui\\form_baocaohethang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{070BBDC1-B70D-4CDC-B87B-96EADB9C8EAE}|BTL_Nhom7_CNPM.csproj|D:\\code\\BTL_Nhom7_CNPM\\BTL_Nhom7_CNPM\\ui\\form_baocaohethang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{070BBDC1-B70D-4CDC-B87B-96EADB9C8EAE}|BTL_Nhom7_CNPM.csproj|solutionrelative:ui\\form_baocaohethang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{070BBDC1-B70D-4CDC-B87B-96EADB9C8EAE}|BTL_Nhom7_CNPM.csproj|D:\\code\\BTL_Nhom7_CNPM\\BTL_Nhom7_CNPM\\ui\\formhome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{070BBDC1-B70D-4CDC-B87B-96EADB9C8EAE}|BTL_Nhom7_CNPM.csproj|solutionrelative:ui\\formhome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{070BBDC1-B70D-4CDC-B87B-96EADB9C8EAE}|BTL_Nhom7_CNPM.csproj|D:\\code\\BTL_Nhom7_CNPM\\BTL_Nhom7_CNPM\\ui\\form_tkdoanhthu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{070BBDC1-B70D-4CDC-B87B-96EADB9C8EAE}|BTL_Nhom7_CNPM.csproj|solutionrelative:ui\\form_tkdoanhthu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{070BBDC1-B70D-4CDC-B87B-96EADB9C8EAE}|BTL_Nhom7_CNPM.csproj|D:\\code\\BTL_Nhom7_CNPM\\BTL_Nhom7_CNPM\\ui\\form_tkdoanhthu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{070BBDC1-B70D-4CDC-B87B-96EADB9C8EAE}|BTL_Nhom7_CNPM.csproj|solutionrelative:ui\\form_tkdoanhthu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{070BBDC1-B70D-4CDC-B87B-96EADB9C8EAE}|BTL_Nhom7_CNPM.csproj|D:\\code\\BTL_Nhom7_CNPM\\BTL_Nhom7_CNPM\\ui\\formhome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{070BBDC1-B70D-4CDC-B87B-96EADB9C8EAE}|BTL_Nhom7_CNPM.csproj|solutionrelative:ui\\formhome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{070BBDC1-B70D-4CDC-B87B-96EADB9C8EAE}|BTL_Nhom7_CNPM.csproj|D:\\code\\BTL_Nhom7_CNPM\\BTL_Nhom7_CNPM\\ui\\formqlnhapkho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{070BBDC1-B70D-4CDC-B87B-96EADB9C8EAE}|BTL_Nhom7_CNPM.csproj|solutionrelative:ui\\formqlnhapkho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{070BBDC1-B70D-4CDC-B87B-96EADB9C8EAE}|BTL_Nhom7_CNPM.csproj|D:\\code\\BTL_Nhom7_CNPM\\BTL_Nhom7_CNPM\\ui\\form_qlbanhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{070BBDC1-B70D-4CDC-B87B-96EADB9C8EAE}|BTL_Nhom7_CNPM.csproj|solutionrelative:ui\\form_qlbanhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{070BBDC1-B70D-4CDC-B87B-96EADB9C8EAE}|BTL_Nhom7_CNPM.csproj|D:\\code\\BTL_Nhom7_CNPM\\BTL_Nhom7_CNPM\\ui\\form_qlhoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{070BBDC1-B70D-4CDC-B87B-96EADB9C8EAE}|BTL_Nhom7_CNPM.csproj|solutionrelative:ui\\form_qlhoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{070BBDC1-B70D-4CDC-B87B-96EADB9C8EAE}|BTL_Nhom7_CNPM.csproj|D:\\code\\BTL_Nhom7_CNPM\\BTL_Nhom7_CNPM\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{070BBDC1-B70D-4CDC-B87B-96EADB9C8EAE}|BTL_Nhom7_CNPM.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form_BaoCaoHetHang.cs",
+              "DocumentMoniker": "D:\\code\\BTL_Nhom7_CNPM\\BTL_Nhom7_CNPM\\UI\\Form_BaoCaoHetHang.cs",
+              "RelativeDocumentMoniker": "UI\\Form_BaoCaoHetHang.cs",
+              "ToolTip": "D:\\code\\BTL_Nhom7_CNPM\\BTL_Nhom7_CNPM\\UI\\Form_BaoCaoHetHang.cs",
+              "RelativeToolTip": "UI\\Form_BaoCaoHetHang.cs",
+              "ViewState": "AQIAALEAAAAAAAAAAAAQwMcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T16:34:30.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form_TKDoanhThu.cs",
+              "DocumentMoniker": "D:\\code\\BTL_Nhom7_CNPM\\BTL_Nhom7_CNPM\\UI\\Form_TKDoanhThu.cs",
+              "RelativeDocumentMoniker": "UI\\Form_TKDoanhThu.cs",
+              "ToolTip": "D:\\code\\BTL_Nhom7_CNPM\\BTL_Nhom7_CNPM\\UI\\Form_TKDoanhThu.cs",
+              "RelativeToolTip": "UI\\Form_TKDoanhThu.cs",
+              "ViewState": "AQIAAD4AAAAAAAAAAAAYwEcAAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T16:07:18.799Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormHome.cs [Design]",
+              "DocumentMoniker": "D:\\code\\BTL_Nhom7_CNPM\\BTL_Nhom7_CNPM\\UI\\FormHome.cs",
+              "RelativeDocumentMoniker": "UI\\FormHome.cs",
+              "ToolTip": "D:\\code\\BTL_Nhom7_CNPM\\BTL_Nhom7_CNPM\\UI\\FormHome.cs [Design]",
+              "RelativeToolTip": "UI\\FormHome.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T15:40:52.741Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form_BaoCaoHetHang.cs [Design]",
+              "DocumentMoniker": "D:\\code\\BTL_Nhom7_CNPM\\BTL_Nhom7_CNPM\\UI\\Form_BaoCaoHetHang.cs",
+              "RelativeDocumentMoniker": "UI\\Form_BaoCaoHetHang.cs",
+              "ToolTip": "D:\\code\\BTL_Nhom7_CNPM\\BTL_Nhom7_CNPM\\UI\\Form_BaoCaoHetHang.cs [Design]",
+              "RelativeToolTip": "UI\\Form_BaoCaoHetHang.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T14:57:30.73Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form_TKDoanhThu.cs [Design]",
+              "DocumentMoniker": "D:\\code\\BTL_Nhom7_CNPM\\BTL_Nhom7_CNPM\\UI\\Form_TKDoanhThu.cs",
+              "RelativeDocumentMoniker": "UI\\Form_TKDoanhThu.cs",
+              "ToolTip": "D:\\code\\BTL_Nhom7_CNPM\\BTL_Nhom7_CNPM\\UI\\Form_TKDoanhThu.cs [Design]",
+              "RelativeToolTip": "UI\\Form_TKDoanhThu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T14:57:56.147Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FormHome.cs",
+              "DocumentMoniker": "D:\\code\\BTL_Nhom7_CNPM\\BTL_Nhom7_CNPM\\UI\\FormHome.cs",
+              "RelativeDocumentMoniker": "UI\\FormHome.cs",
+              "ToolTip": "D:\\code\\BTL_Nhom7_CNPM\\BTL_Nhom7_CNPM\\UI\\FormHome.cs",
+              "RelativeToolTip": "UI\\FormHome.cs",
+              "ViewState": "AQIAAGIAAAAAAAAAAAAIwIEAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T15:41:07.753Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FormQLNhapKho.cs [Design]",
+              "DocumentMoniker": "D:\\code\\BTL_Nhom7_CNPM\\BTL_Nhom7_CNPM\\UI\\FormQLNhapKho.cs",
+              "RelativeDocumentMoniker": "UI\\FormQLNhapKho.cs",
+              "ToolTip": "D:\\code\\BTL_Nhom7_CNPM\\BTL_Nhom7_CNPM\\UI\\FormQLNhapKho.cs [Design]",
+              "RelativeToolTip": "UI\\FormQLNhapKho.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T14:57:33.143Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form_QLBanHang.cs [Design]",
+              "DocumentMoniker": "D:\\code\\BTL_Nhom7_CNPM\\BTL_Nhom7_CNPM\\UI\\Form_QLBanHang.cs",
+              "RelativeDocumentMoniker": "UI\\Form_QLBanHang.cs",
+              "ToolTip": "D:\\code\\BTL_Nhom7_CNPM\\BTL_Nhom7_CNPM\\UI\\Form_QLBanHang.cs [Design]",
+              "RelativeToolTip": "UI\\Form_QLBanHang.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T14:57:25.612Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form_QLHoaDon.cs [Design]",
+              "DocumentMoniker": "D:\\code\\BTL_Nhom7_CNPM\\BTL_Nhom7_CNPM\\UI\\Form_QLHoaDon.cs",
+              "RelativeDocumentMoniker": "UI\\Form_QLHoaDon.cs",
+              "ToolTip": "D:\\code\\BTL_Nhom7_CNPM\\BTL_Nhom7_CNPM\\UI\\Form_QLHoaDon.cs [Design]",
+              "RelativeToolTip": "UI\\Form_QLHoaDon.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T14:57:03.366Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\code\\BTL_Nhom7_CNPM\\BTL_Nhom7_CNPM\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\code\\BTL_Nhom7_CNPM\\BTL_Nhom7_CNPM\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T14:49:19.775Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
